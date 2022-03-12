@@ -1,0 +1,15 @@
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\bin\Debug\net6.0\holaMundo.exe
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\bin\Debug\net6.0\holaMundo.deps.json
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\bin\Debug\net6.0\holaMundo.runtimeconfig.json
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\bin\Debug\net6.0\holaMundo.dll
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\bin\Debug\net6.0\holaMundo.pdb
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.csproj.AssemblyReference.cache
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfoInputs.cache
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfo.cs
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.dll
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\refint\holaMundo.dll
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.pdb
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\holaMundo.genruntimeconfig.cache
+D:\ESCRITORIO\Material UTN\primerPrograma\holaMundo\obj\Debug\net6.0\ref\holaMundo.dll
