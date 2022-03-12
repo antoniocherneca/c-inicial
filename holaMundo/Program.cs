@@ -14,7 +14,7 @@ namespace contador
         Console.WriteLine(suma);
       }
 
-      Console.WriteLine("La suma final es: " + suma);
+      Console.WriteLine($"La suma final es {suma}");
     }
   }
 }
